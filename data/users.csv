@@ -1,4 +1,8 @@
 id,Nome,Conta,Cartão,news
-1,Ana Silva,12345-6,**** **** **** 1234,
-2,Bruno Santos,23456-7,**** **** **** 2345,
-3,Carla Oliveira,34567-8,**** **** **** 3456,
+1,Ana Silva,12345-6,**** **** **** 1234,"Olá Ana Silva!  
+Invista no Santander e faça seu dinheiro crescer com segurança e confiança.  
+
+— Santander Investimentos"
+2,Bruno Santos,23456-7,**** **** **** 2345,"Olá Bruno Santos, sua conta 23456‑7 está pronta para crescer. Invista no Santander e alcance seus objetivos financeiros."
+3,Carla Oliveira,34567-8,**** **** **** 3456,"Olá Carla Oliveira!  
+Sua conta 34567‑8 está pronta para crescer. Invista no Santander e alcance seus objetivos financeiros."

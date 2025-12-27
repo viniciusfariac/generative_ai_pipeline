@@ -1,2 +1,2 @@
-def load_users(df):
-    pass
+def load_users(df, mensagem, index):
+    df.at[index, "news"] = mensagem
